@@ -68,10 +68,33 @@ Image.create(id: 51, name: 'Gourma Rharous', image: 'https://imgur.com/DsFQFZd.p
 Image.create(id: 52, name: 'Gujarat', image: 'https://imgur.com/JtOURvR.png', location: 'India')
 Image.create(id: 53, name: 'Iskushuban', image: 'https://imgur.com/szBcjkK.png', location: 'Somalia')
 Image.create(id: 54, name: 'Jiuquan', image: 'https://imgur.com/e73w1qA.png', location: 'China')
-Image.create(id: 55, name: 'Kondh', image: 'https://imgur.com/WtNLz8MT.png', location: 'India')
+Image.create(id: 55, name: 'Kondh', image: 'https://imgur.com/WtNLz8M.png', location: 'India')
 Image.create(id: 56, name: 'Kufra District', image: 'https://imgur.com/b6J0axn.png', location: 'Libya')
 Image.create(id: 57, name: 'Nema', image: 'https://imgur.com/VlA51OZ.png', location: 'Mauritania')
 Image.create(id: 58, name: 'Nunavut', image: 'https://imgur.com/pzkgi6S.png', location: 'Canada')
 Image.create(id: 59, name: 'Tamanrasset Province', image: 'https://imgur.com/NtKv7MD.png', location: 'Algeria')
+
+Image.create(id: 60, name: 'Tes', image: 'https://imgur.com/8ZQOD7C.png', location: 'Mongolia')
+Image.create(id: 61, name: 'Zug', image: 'https://imgur.com/XycybUF.png', location: 'Western Sahara')
+Image.create(id: 62, name: 'Ansongo', image: 'https://imgur.com/mGD4Kum.png', location: 'Mali')
+Image.create(id: 63, name: 'Gairdner', image: 'https://imgur.com/4kJbN2K.png', location: 'Australia')
+Image.create(id: 64, name: 'Ceel Dheer', image: 'https://imgur.com/uYqvKpt.png', location: 'Somalia')
+Image.create(id: 65, name: 'Ammam', image: 'https://imgur.com/2O8niv2.png', location: 'Jordan')
+Image.create(id: 66, name: 'Northwest Africa', image: 'https://imgur.com/sTkCRUp.png', location: 'Africa')
+Image.create(id: 67, name: 'Chukotka Autonomous Okrug', image: 'https://imgur.com/s9TA3mN.png', location: 'Russia')
+Image.create(id: 68, name: 'Al Ahsa', image: 'https://imgur.com/kEQ5LJk.png', location: 'Saudi Arabia')
+Image.create(id: 69, name: 'River Nile', image: 'https://imgur.com/3sGzhBP.png', location: 'Sudan')
+
+Image.create(id: 70, name: 'Wadi Halfa', image: 'https://imgur.com/WIRPb9u.png', location: 'Sudan')
+Image.create(id: 71, name: 'Dennehotso', image: 'https://imgur.com/G6jrXdA.png', location: 'United States')
+Image.create(id: 72, name: 'Tuamotus Islands', image: 'https://imgur.com/NEinBW4.png', location: 'French Polynesia')
+Image.create(id: 73, name: 'Maunaloa', image: 'https://imgur.com/9REmdzb.png', location: 'United States')
+Image.create(id: 74, name: 'Mauritania', image: 'https://imgur.com/Z7Gvqzh.png', location: 'Mauritania')
+Image.create(id: 75, name: 'Mellit', image: 'https://imgur.com/L4rFnxc.png', location: 'Sudan')
+Image.create(id: 76, name: 'Moab', image: 'https://imgur.com/4Uf8AxL.png', location: 'United States')
+Image.create(id: 77, name: 'Ogden', image: 'https://imgur.com/hmJ5qKc.png', location: 'United States')
+Image.create(id: 78, name: 'Paterson', image: 'https://imgur.com/6c91Osb.png', location: 'United States')
+
+
 
 
