@@ -80,7 +80,7 @@ Image.create(id: 62, name: 'Ansongo', image: 'https://imgur.com/mGD4Kum.png', lo
 Image.create(id: 63, name: 'Gairdner', image: 'https://imgur.com/4kJbN2K.png', location: 'Australia', continent: 'Oceania')
 Image.create(id: 64, name: 'Ceel Dheer', image: 'https://imgur.com/uYqvKpt.png', location: 'Somalia', continent: 'Africa')
 Image.create(id: 65, name: 'Ammam', image: 'https://imgur.com/2O8niv2.png', location: 'Jordan', continent: 'Asia')
-Image.create(id: 66, name: 'Northwest Africa', image: 'https://imgur.com/sTkCRUp.png', location: 'Africa')
+Image.create(id: 66, name: 'Northwest Africa', image: 'https://imgur.com/sTkCRUp.png', location: 'Africa', continent: 'Africa')
 Image.create(id: 67, name: 'Chukotka Autonomous Okrug', image: 'https://imgur.com/s9TA3mN.png', location: 'Russia', continent: 'Europe')
 Image.create(id: 68, name: 'Al Ahsa', image: 'https://imgur.com/kEQ5LJk.png', location: 'Saudi Arabia', continent: 'Asia')
 Image.create(id: 69, name: 'River Nile', image: 'https://imgur.com/3sGzhBP.png', location: 'Sudan', continent: 'Africa')
