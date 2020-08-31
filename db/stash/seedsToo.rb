@@ -8,7 +8,7 @@
 
 Image.destroy_all
 
-# Image.create(id: 1, name: 'Mary', image: 'https://imgur.com/jhQdByz.png', location: 'Turkmenistan', continent: 'Asia')
+Image.create(id: 1, name: 'Mary', image: 'https://imgur.com/jhQdByz.png', location: 'Turkmenistan', continent: 'Asia')
 Image.create(id: 2, name: 'Fremont', image: 'https://imgur.com/bUrYJ6K.png', location: 'United States', continent: 'North America')
 Image.create(id: 3, name: 'Kufra District', image: 'https://imgur.com/iwpftmk.png', location: 'Libya', continent: 'Africa')
 Image.create(id: 4, name: 'Inyo County', image: 'https://imgur.com/zPyREb7.png', location: 'United States', continent: 'North America')
@@ -45,7 +45,7 @@ Image.create(id: 31, name: 'Jiuquan', image: 'https://imgur.com/CpoOpRO.png', lo
 Image.create(id: 32, name: 'Tes', image: 'https://imgur.com/lqo8vS7.png', location: 'Mongolia', continent: 'Asia')
 Image.create(id: 33, name: 'Kondh', image: 'https://imgur.com/Az4PoJH.png', location: 'India', continent: 'Asia')
 Image.create(id: 34, name: 'Zug', image: 'https://imgur.com/Kc6OOA2.png', location: 'Western Sahara', continent: 'Africa')
-Image.create(id: 35, name: 'Ansongo', image: 'https://imgur.com/46dLnqR.png', location: 'Mali', continent: 'Africa')
+Image.create(id: 35, name: 'Ansongo', image: 'https://imgur.com/46dLnqR', location: 'Mali', continent: 'Africa')
 Image.create(id: 36, name: 'Ceel Dheer', image: 'https://imgur.com/vFb5UQx.png', location: 'Somalia', continent: 'Africa')
 Image.create(id: 37, name: 'River Nile', image: 'https://imgur.com/W7L0JPr.png', location: 'Sudan', continent: 'Africa')
 Image.create(id: 38, name: 'Chañaral Province', image: 'https://imgur.com/aJaR8Zx.png', location: 'Chile', continent: 'South America')
@@ -64,15 +64,35 @@ Image.create(id: 48, name: 'Gairdner', image: 'https://imgur.com/F4e76NO.png', l
 Image.create(id: 49, name: 'Mauritania', image: 'https://imgur.com/EhygmJp.png', location: 'Mauritania', continent: 'Africa')
 Image.create(id: 50, name: 'Gourma Rharous', image: 'https://imgur.com/zYbTICO.png', location: 'Mali', continent: 'Africa')
 
+# Image.create(id: 2, name: 'Arequipa', image: 'https://imgur.com/O4Wmhwd.png', location: 'Peru', continent: 'South America')
+# Image.create(id: 3, name: 'Dashoguz Province', image: 'https://imgur.com/JL5gFxn.png', location: 'Turkmenistan', continent: 'Asia')
+# Image.create(id: 4, name: 'Eustaquio Mendez', image: 'https://imgur.com/dqUXG2v.png', location: 'Bolivia', continent: 'South America')
+# Image.create(id: 74, name: 'Mauritania', image: 'https://imgur.com/Z7Gvqzh.png', location: 'Mauritania', continent: 'Africa')
+# Image.create(id: 6, name: 'Hail Province', image: '.png', location: 'Saudi Arabia', continent: 'Asia')
+# Image.create(id: 10, name: 'Maralinga', image: 'https://imgur.com/2mPMDZg.png', location: 'Australia', continent: 'Oceania')
+
+
+# Image.create(id: 11, name: 'Mulegé Municipality', image: 'https://imgur.com/Gv32ld9.png', location: 'Mexico', continent: 'North America')
+# Image.create(id: 77, name: 'Ogden', image: 'https://imgur.com/hmJ5qKc.png', location: 'United States', continent: 'North America')
+# Image.create(id: 78, name: 'Paterson', image: 'https://imgur.com/6c91Osb.png', location: 'United States', continent: 'North America')
+
+# Image.create(id: 46, name: 'Vicuña', image: 'https://imgur.com/Mjmr3Ir.png', location: 'Chile', continent: 'South America')
+
+
+# Image.create(id: 42, name: 'Mulegé Municipality', image: 'https://imgur.com/9tmPxSm.png', location: 'Mexico', continent: 'North America')
+# Image.create(id: 49, name: 'Antonio Quijarro', image: 'https://imgur.com/7Z1zG4H.png', location: 'Boliva', continent: 'South America')
+# Image.create(id: 65, name: 'Ammam', image: 'https://imgur.com/2O8niv2.png', location: 'Jordan', continent: 'Asia')
+# Image.create(id: 72, name: 'Tuamotus Islands', image: 'https://imgur.com/NEinBW4.png', location: 'French Polynesia', continent: 'Oceania')
 
 
 
-Image.create(id: 51, name: 'Karaginsky District', image: 'https://imgur.com/w4201AQ.png', location: 'Russia', continent: 'Europe')
+
+Image.create(id: 51, name: '', image: 'https://imgur.com/w4201AQ.png', location: '', continent: '')
 Image.create(id: 52, name: 'Marble Canyon', image: 'https://imgur.com/aQiKbaA.png', location: 'United States', continent: 'North America')
-Image.create(id: 53, name: 'Nema', image: 'https://imgur.com/GvKAbxj.png', location: 'Mauritania', continent:'Africa' )
-Image.create(id: 54, name: 'Tamanrasset Province', image: 'https://imgur.com/RjfYfbG.png', location: 'Algeria', continent: 'Africa')
-Image.create(id: 55, name: 'Vicuña', image: 'https://imgur.com/azwxEsc.png', location: 'Chile', continent: 'South America')
-Image.create(id: 56, name: 'Murzuq District', image: 'https://imgur.com/O6JJgU7.png', location: 'Libya', continent: 'Africa')
+Image.create(id: 53, name: 'Nema', image: 'https://imgur.com/GvKAbxj.png', location: '', continent:'' )
+Image.create(id: 54, name: 'Tamarnrasset', image: 'https://imgur.com/RjfYfbG.png', location: '', continent: '')
+Image.create(id: 55, name: 'Vinca', image: 'https://imgur.com/azwxEsc.png', location: '', continent: '')
+Image.create(id: 56, name: '', image: 'https://imgur.com/O6JJgU7.png', location: 'Libya', continent: '')
 
 
 
