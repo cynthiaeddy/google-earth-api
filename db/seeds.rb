@@ -75,6 +75,22 @@ Image.create(id: 55, name: 'Vicuña', image: 'https://imgur.com/6ejYi4a.png', lo
 Image.create(id: 56, name: 'Murzuq District', image: 'https://imgur.com/rDaZg4r.png', location: 'Libya', continent: 'Africa')
 
 
+Image.create(id: 57, name: 'Karaginsky District', image: 'https://imgur.com/QgbBX78.png', location: 'Russia', continent: 'Europe')
+Image.create(id: 58, name: 'Marble Canyon', image: 'https://imgur.com/g9ug8qJ.png', location: 'United States', continent: 'North America')
+Image.create(id: 59, name: 'Nema', image: 'https://imgur.com/nK22Olt.png', location: 'Mauritania', continent:'Africa' )
+Image.create(id: 60, name: 'Tamanrasset Province', image: 'https://imgur.com/H5rHOab.png', location: 'Algeria', continent: 'Africa')
+Image.create(id: 61, name: 'Vicuña', image: 'https://imgur.com/6ejYi4a.png', location: 'Chile', continent: 'South America')
+Image.create(id: 62, name: 'Murzuq District', image: 'https://imgur.com/rDaZg4r.png', location: 'Libya', continent: 'Africa')
+
+Image.create(id: 63, name: 'Nema', image: 'https://imgur.com/nK22Olt.png', location: 'Mauritania', continent:'Africa' )
+Image.create(id: 64, name: 'Tamanrasset Province', image: 'https://imgur.com/H5rHOab.png', location: 'Algeria', continent: 'Africa')
+Image.create(id: 65, name: 'Vicuña', image: 'https://imgur.com/6ejYi4a.png', location: 'Chile', continent: 'South America')
+Image.create(id: 66, name: 'Murzuq District', image: 'https://imgur.com/rDaZg4r.png', location: 'Libya', continent: 'Africa')
+
+
+
+
+
 
 
 
