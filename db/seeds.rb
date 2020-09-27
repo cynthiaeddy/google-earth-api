@@ -43,7 +43,7 @@ Image.create(id: 29, name: 'Gujarat', image: 'https://imgur.com/ZcjQ1oU.png', lo
 Image.create(id: 30, name: 'Iskushuban', image: 'https://imgur.com/IdsZbSb.png', location: 'Somalia', continent: 'Africa')
 Image.create(id: 31, name: 'Jiuquan', image: 'https://imgur.com/lX3GHYx.png', location: 'China', continent: 'Asia')
 Image.create(id: 32, name: 'Tes', image: 'https://imgur.com/Pntcgi5.png', location: 'Mongolia', continent: 'Asia')
-Image.create(id: 33, name: 'Kondh', image: 'https://imgur.com/36yNUwupng', location: 'India', continent: 'Asia')
+Image.create(id: 33, name: 'Kondh', image: 'https://imgur.com/36yNUwu.png', location: 'India', continent: 'Asia')
 Image.create(id: 34, name: 'Zug', image: 'https://imgur.com/CDyjYaI.png', location: 'Western Sahara', continent: 'Africa')
 Image.create(id: 35, name: 'Ansongo', image: 'https://imgur.com/TU0GMS5.png', location: 'Mali', continent: 'Africa')
 Image.create(id: 36, name: 'Ceel Dheer', image: 'https://imgur.com/WVQX1TU.png', location: 'Somalia', continent: 'Africa')
@@ -87,6 +87,11 @@ Image.create(id: 64, name: 'Mariscal Nieto Province', image: 'https://imgur.com/
 Image.create(id: 65, name: 'Mount Ney', image: 'https://imgur.com/9rCWv8m.png', location: 'Australia', continent: 'Oceania')
 Image.create(id: 66, name: 'Ouargla', image: 'https://imgur.com/TEYKaqp.png', location: 'Algeria', continent: 'Africa')
 
+Image.create(id: 67, name: 'Western Australia', image: 'https://imgur.com/sub7BfE.png', location: 'Australia', continent:'Oceania' )
+Image.create(id: 68, name: 'Thealby', image: 'https://imgur.com/7ThdZgg.png', location: 'United Kingdom', continent: 'Europe')
+Image.create(id: 70, name: 'Diomede Island', image: 'https://imgur.com/VLaigSt.png', location: 'Russia', continent: 'Europe')
+Image.create(id: 69, name: 'Al Fasher', image: 'https://imgur.com/SjU9ir3.png', location: 'Sudan', continent: 'Africa')
+Image.create(id: 71, name: 'Zhanakorgan District', image: 'https://imgur.com/HeewQOA.png', location: 'Kazakhstan', continent: 'Asia')
 
 
 
